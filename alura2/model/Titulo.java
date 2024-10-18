@@ -1,6 +1,6 @@
-package alura2.src;
+package alura2.model;
 
-public class Filme {
+public class Titulo {
     private String nome;
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
